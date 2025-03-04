@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Акрофобия",
+    "description": "Панический страх высоты, вызывающий головокружение, потливость и чувство потери контроля.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Glass_Floor_of_the_CN_Tower.JPG"
+  },
+  {
+    "id": 2,
+    "title": "Клаустрофобия",
+    "description": "Боязнь замкнутых пространств, таких как лифты и туннели, вызывающая чувство удушья и паники.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS250g3jk7BHAmqoRc93nkmNhplSWYIFxMuw&s"
+  },
+  {
+    "id": 3,
+    "title": "Арахнофобия",
+    "description": "Интенсивный страх пауков, даже при отсутствии реальной угрозы.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqAB9pC_dmEvg0v9Dd5jo-6Lqe-V_pHwxNA&s"
+  },
+  {
+    "id": 4,
+    "title": "Офидиофобия",
+    "description": "Навязчивый страх змей, вызывающий дискомфорт даже при их виде на картинках или в фильмах.",
+    "imageUrl": "https://sun9-66.userapi.com/impf/3cm3CPgkC7dUvNNY9d4Ui_oeNZiUGSm-pTkZYw/_9dRhxm4pXM.jpg?size=600x426&quality=96&sign=78a47d4f00de0b6c1e80b3d4416a4e87&type=album"
+  },
+  {
+    "id": 5,
+    "title": "Никтофобия",
+    "description": "Страх темноты, связанный с воображаемыми опасностями, скрывающимися в темных местах.",
+    "imageUrl": "https://example.com/images/noctophobia.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Талассофобия",
+    "description": "Страх глубокой воды и неизвестности, скрытой под ее поверхностью.",
+    "imageUrl": "https://example.com/images/thalassophobia.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Кулрофобия",
+    "description": "Боязнь клоунов из-за их чрезмерного грима и странного поведения.",
+    "imageUrl": "https://example.com/images/coulrophobia.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Глоссофобия",
+    "description": "Страх публичных выступлений, вызывающий дрожь, потливость и неспособность говорить.",
+    "imageUrl": "https://example.com/images/glossophobia.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Мизофобия",
+    "description": "Навязчивая боязнь микробов, приводящая к частому мытью рук и избеганию прикосновений.",
+    "imageUrl": "https://example.com/images/mysophobia.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Атихифобия",
+    "description": "Страх неудачи, мешающий пробовать новое и рисковать.",
+    "imageUrl": "https://example.com/images/atychiphobia.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Аутофобия",
+    "description": "Страх одиночества, приводящий к тревоге даже при кратковременном отсутствии компании.",
+    "imageUrl": "https://example.com/images/autophobia.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Танатофобия",
+    "description": "Сильный страх смерти или процессов, связанных с умиранием.",
+    "imageUrl": "https://example.com/images/thanatophobia.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Нозокомефобия",
+    "description": "Страх больниц и медицинских процедур, связанный с боязнью уколов и операций.",
+    "imageUrl": "https://example.com/images/nosocomophobia.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Дентофобия",
+    "description": "Боязнь посещения стоматолога, вызывающая избегание лечения зубов.",
+    "imageUrl": "https://example.com/images/dentophobia.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Авиофобия",
+    "description": "Страх полетов на самолете, связанный с боязнью высоты и турбулентности.",
+    "imageUrl": "https://example.com/images/aviophobia.jpg"
+  }
+]
