@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Акрофобия",
+    "description": "Панический страх высоты, вызывающий головокружение, потливость и чувство потери контроля.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Glass_Floor_of_the_CN_Tower.JPG",
+    "fear": "Высота"
+  },
+  {
+    "id": 2,
+    "title": "Клаустрофобия",
+    "description": "Боязнь замкнутых пространств, таких как лифты и туннели, вызывающая чувство удушья и паники.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS250g3jk7BHAmqoRc93nkmNhplSWYIFxMuw&s",
+    "fear": "Замкнутые пространства"
+  },
+  {
+    "id": 3,
+    "title": "Арахнофобия",
+    "description": "Интенсивный страх пауков, даже при отсутствии реальной угрозы.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqAB9pC_dmEvg0v9Dd5jo-6Lqe-V_pHwxNA&s",
+    "fear": "Пауки"
+  },
+  {
+    "id": 4,
+    "title": "Офидиофобия",
+    "description": "Навязчивый страх змей, вызывающий дискомфорт даже при их виде на картинках или в фильмах.",
+    "imageUrl": "https://sun9-66.userapi.com/impf/3cm3CPgkC7dUvNNY9d4Ui_oeNZiUGSm-pTkZYw/_9dRhxm4pXM.jpg?size=600x426&quality=96&sign=78a47d4f00de0b6c1e80b3d4416a4e87&type=album",
+    "fear": "Змеи"
+  },
+  {
+    "id": 5,
+    "title": "Никтофобия",
+    "description": "Страх темноты, связанный с воображаемыми опасностями, скрывающимися в темных местах.",
+    "imageUrl": "https://www.dar-med.ru/images/niktofobiya/facing-fears-is-the-best-way-to-beat-them-photo-u1.jpg",
+    "fear": "Темнота"
+  },
+  {
+    "id": 6,
+    "title": "Талассофобия",
+    "description": "Страх глубокой воды и неизвестности, скрытой под ее поверхностью.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Submerged_USS_Woodrow_Wilson_%28SSBN-624%29.jpeg",
+    "fear": "Глубокая вода"
+  },
+  {
+    "id": 7,
+    "title": "Коулрофобия",
+    "description": "Боязнь клоунов из-за их чрезмерного грима и странного поведения.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Saint-Petersburg_WikiConference2016._Photo_131.jpg",
+    "fear": "Клоуны"
+  },
+  {
+    "id": 8,
+    "title": "Глоссофобия",
+    "description": "Страх публичных выступлений, вызывающий дрожь, потливость и неспособность говорить.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezOddhMFA73OZGPCTDXgYVZM6KP2fpExNlA&s",
+    "fear": "Публичные выступления"
+  },
+  {
+    "id": 9,
+    "title": "Мизофобия",
+    "description": "Навязчивая боязнь микробов, приводящая к частому мытью рук и избеганию прикосновений.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS5KAoE1U7NcMf35ybLkUd-yUhdvqZ37RYbA&s",
+    "fear": "Микробы"
+  },
+  {
+    "id": 10,
+    "title": "Атихифобия",
+    "description": "Страх неудачи, мешающий пробовать новое и рисковать.",
+    "imageUrl": "https://avatars.dzeninfra.ru/get-zen_doc/10384542/pub_64a83e186b2a013bdd18351d_64a83e9f6b2a013bdd186247/scale_1200",
+    "fear": "Неудача"
+  },
+  {
+    "id": 11,
+    "title": "Аутофобия",
+    "description": "Страх одиночества, приводящий к тревоге даже при кратковременном отсутствии компании.",
+    "imageUrl": "https://kharkov.moygorod.ua/upload/company/2021-10/2021-10-13-autofobiya.jpg",
+    "fear": "Одиночество"
+  },
+  {
+    "id": 12,
+    "title": "Танатофобия",
+    "description": "Сильный страх смерти или процессов, связанных с умиранием.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbc-10-zm73PgX0D9fg8fPsos_SF8pzaVuA&s",
+    "fear": "Смерть"
+  },
+  {
+    "id": 13,
+    "title": "Нозокомефобия",
+    "description": "Страх больниц и медицинских процедур, связанный с боязнью уколов и операций.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BekQ_IRB12bjcoPcsP3xDxNvE5tX0T8Xkw&s",
+    "fear": "Медицина"
+  },
+  {
+    "id": 14,
+    "title": "Дентофобия",
+    "description": "Боязнь посещения стоматолога, вызывающая избегание лечения зубов.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6WXCyyPwC-vqQgvqSVcoueEcOCazTZAxytg&s",
+    "fear": "Стомотолог"
+  },
+  {
+    "id": 15,
+    "title": "Авиофобия",
+    "description": "Страх полетов на самолете, связанный с боязнью высоты и турбулентности.",
+    "imageUrl": "https://thumbs.dreamstime.com/z/%D0%B0%D1%8D%D1%80%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F-%D0%B8%D0%BB%D0%B8-%D0%B0%D0%B2%D0%B8%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D1%85-%D0%BB%D0%B5%D1%82%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%B5-%D0%B8-%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0-%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B0-%D0%B2-213282883.jpg",
+    "fear": "Стомотолог"
+  }
+]
